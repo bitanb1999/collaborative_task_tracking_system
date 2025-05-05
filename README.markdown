@@ -86,8 +86,5 @@ src/main/java/com/example/tasktracker/
 - Integration tests are included for controllers and services.
 
 ## Submission
-The project is hosted at: [GitHub Repository](https://github.com/yourusername/task-tracking-platform)
+The project is hosted at: [GitHub Repository](https://github.com/bitanb1999/collaborative_task_tracking_system)
 
-## Notes
-- The generative AI feature is a placeholder. To integrate a real model, update `AiService` with API calls.
-- Real-time notifications are not implemented but can be added using Spring WebSockets.
